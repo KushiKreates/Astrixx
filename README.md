@@ -1,5 +1,8 @@
 # Astrixx - Astral-Cloud Game Panel
 
+![Astrixx](https://raw.githubusercontent.com/KushiKreates/Astrixx/main/image.png)
+
+
 Welcome to the Astrixx Game Panel, your ultimate hub for managing game servers with ease and efficiency. This panel is built on the Pterodactyl platform and provides a sleek and user-friendly interface for all your server management needs.
 
 ## Features
